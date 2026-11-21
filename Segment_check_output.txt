@@ -1,0 +1,6 @@
+Regenerated orders match the CSV.
+Robust-z threshold            : Rs 3,277.51
+Premium share of orders       : 12%
+Premium share of revenue      : 34.3%
+Flagged orders                : 91 (premium 77, typical 14)
+Premium orders NOT flagged    : 43 of 120
