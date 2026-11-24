@@ -1,4 +1,7 @@
 # 71.7 percent-of-Orders-Fell-Below-Average.-Here-s-Why-That-s-Normal
+
+https://tinyurl.com/56e278t9
+
 A boutique owner’s order data goes through health checks, skewness, robust statistics, normality tests, the CLT, bootstrap, and Monte Carlo — with reproducible numbers.
 Here are two numbers from the same online-store dashboard: Average Order Value = ₹1,556, and 71.7% of orders below it. Both are correct. The mean is not lying; it is answering a narrower question than the owner is asking.
 That gap is not a data error. It is the gap between a dashboard number and an analysis. This article follows one order-amount column through eleven steps — health checks, centre and spread, shape, charts, normality, transformation, the CLT, confidence intervals, bootstrap, a hypothesis test, and a Monte Carlo forecast — so Priya can answer not just “how much?” but “how spread out, how sure, and what next?”
